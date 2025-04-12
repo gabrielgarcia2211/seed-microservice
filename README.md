@@ -4,22 +4,6 @@ Este proyecto consiste en un **microservicio desarrollado en Node.js** que se co
 
 👉 [Proyecto Laravel](https://github.com/gabrielgarcia2211/seed-backend)
 
----
-
-## 🧩 Contexto General
-
-- **Formato**: Proyecto técnico entregable en repositorio (GitHub o GitLab)
-- **Duración estimada**: 4 a 6 horas
-- **Requisitos**:
-  - Base de datos relacional (MySQL o PostgreSQL)
-  - Laravel 10+
-  - Vue 3
-  - Node.js 18+
-  - Acceso o simulación de integración con GCP
-  - 
-  
----
-
 ## 📁 Estructura del Proyecto
 
 ```
