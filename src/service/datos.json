@@ -1,0 +1,12 @@
+{
+  "nombre": "Gabriel",
+  "edad": 25,
+  "activo": true,
+  "tecnologias": [
+    "JavaScript",
+    "Node.js",
+    "Vue.js",
+    "C#",
+    "Go"
+  ]
+}
